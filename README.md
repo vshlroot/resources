@@ -1,5 +1,5 @@
 # Papers
-1.[[PDF](https://arxiv.org/pdf/1710.10196.pdf)] [[Blog](https://towardsdatascience.com/progan-how-nvidia-generated-images-of-unprecedented-quality-51c98ec2cbd2?fbclid=IwAR3Fa-jvvre2VNxDR-uIe_tGISXh1OGQ_UIrYcrXVgi1uLjdQ-180cVLpX4)] [[Official Code](https://github.com/tkarras/progressive_growing_of_gans)] [[Talk](https://www.youtube.com/watch?v=ReZiqCybQPA)] Progressive Growing of GANs for Improved Quality, Stability, and Variation, ICLR 2018
+1. [[PDF](https://arxiv.org/pdf/1710.10196.pdf)] [[Blog](https://towardsdatascience.com/progan-how-nvidia-generated-images-of-unprecedented-quality-51c98ec2cbd2?fbclid=IwAR3Fa-jvvre2VNxDR-uIe_tGISXh1OGQ_UIrYcrXVgi1uLjdQ-180cVLpX4)] [[Official Code](https://github.com/tkarras/progressive_growing_of_gans)] [[Talk](https://www.youtube.com/watch?v=ReZiqCybQPA)] Progressive Growing of GANs for Improved Quality, Stability, and Variation, ICLR 2018
 2. [[PDF](http://science.sciencemag.org/content/sci/360/6394/1204.full.pdf)] [[Blog](https://deepmind.com/blog/neural-scene-representation-and-rendering/)] Neural scene representation and rendering
 3. [[PDF](https://arxiv.org/pdf/1611.07004.pdf)] Image-to-Image Translation with Conditional Adversarial Networks
 4. [[PDF](https://arxiv.org/pdf/1810.05795.pdf)] Point GAN

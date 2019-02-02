@@ -7,7 +7,16 @@
 6. [[PDF](https://arxiv.org/pdf/1609.05566.pdf)] Label-Free Supervision of Neural Networks with Physics and Domain Knowledge
 7. [[PDF](https://arxiv.org/pdf/1505.04597.pdf)] [[Blog 1](http://deeplearning.net/tutorial/unet.html)] [[Blog 2](https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066)] [[Code](https://github.com/milesial/Pytorch-UNet)] U-Net
  Skip Connections, Deconv explained
+8. [[PDF](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)] [Blog 1](https://towardsdatascience.com/siamese-network-triplet-loss-b4ca82c1aec8) Siamese Neural Networks for One-shot Image Recognition
+9. [[PDF](https://arxiv.org/abs/1608.04117)] The Importance of Skip Connections in Biomedical Image Segmentation
    
+# Model Based RL Papers
+1. [[PDF](https://arxiv.org/pdf/1507.08750.pdf)] Action-Conditional Video Prediction using Deep Networks in Atari Games
+2. [[PDF](https://arxiv.org/pdf/1704.02254.pdf)] Recurrent Environment Simulator
+3. [[PDF](https://arxiv.org/pdf/1612.08810.pdf)]] The Predictron: End-To-End Learning and Planning
+4. [[PDF](https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf)] Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning
+5. [[PDF](https://www.ijcai.org/Proceedings/15/Papers/230.pdf)] Classical Planning with Simulators: Results on the Atari Video Games
+6. [[PDF](https://arxiv.org/pdf/1901.01492.pdf)] What Should I Do Now? Marrying Reinforcement Learning and Symbolic Planning
 
 
 # Blogs
@@ -16,3 +25,5 @@
 3. [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 4. [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 	All about GAN losses.
+5. [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+

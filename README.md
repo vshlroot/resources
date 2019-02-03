@@ -9,7 +9,8 @@
  Skip Connections, Deconv explained
 8. [[PDF](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)] [Blog 1](https://towardsdatascience.com/siamese-network-triplet-loss-b4ca82c1aec8) Siamese Neural Networks for One-shot Image Recognition
 9. [[PDF](https://arxiv.org/abs/1608.04117)] The Importance of Skip Connections in Biomedical Image Segmentation
-   
+10. [[PDF](https://openreview.net/forum?id=r1D4bs1Wz)] Dense Transformer Networks
+
 # Model Based RL Papers
 1. [[PDF](https://arxiv.org/pdf/1507.08750.pdf)] Action-Conditional Video Prediction using Deep Networks in Atari Games
 2. [[PDF](https://arxiv.org/pdf/1704.02254.pdf)] Recurrent Environment Simulator
@@ -17,13 +18,19 @@
 4. [[PDF](https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf)] Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning
 5. [[PDF](https://www.ijcai.org/Proceedings/15/Papers/230.pdf)] Classical Planning with Simulators: Results on the Atari Video Games
 6. [[PDF](https://arxiv.org/pdf/1901.01492.pdf)] What Should I Do Now? Marrying Reinforcement Learning and Symbolic Planning
+7. [[PDF](https://www.mimuw.edu.pl/~henrykm/pubs_2018/model-based-reinforcement.pdf)] Model-Based Reinforcement Learning for Atari
+8. [[PDF](http://tedxiao.me/pdf/gans_drl.pdf)] Generative Adversarial Networks for Model BasedReinforcement Learning with Tree Search
 
-
-# Blogs
+# Blogs/Articles
 1. [Deep Learning: Perturbations and Diversity is All You Need](https://medium.com/intuitionmachine/deep-learning-perturbations-is-all-you-need-d630b6980587?fbclid=IwAR168X_cmBnZ81UOTem5ngRgirnGegKVPEt7RRN1Sdcdn8ohVr2uIIqomDg)
 2. [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
 3. [Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
 4. [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 	All about GAN losses.
 5. [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+6. [Understanding and Implementing Architectures of ResNet and ResNeXt for state-of-the-art Image Classification: From Microsoft to Facebook](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624)
+7. [Ganbreeder] https://ganbreeder.app/
+8. [Analogues of mental simulation and imagination in deep learning](https://www.sciencedirect.com/science/article/pii/S2352154618301670?fbclid=IwAR2Aojn5sC9NqeiiBfn1K6L61UVLqF8dYQBoHCz5GJeHxXl3ACk9ShWa91Q)
 
+# Code
+1. [OpenAI Atari Baselines](https://github.com/openai/baselines)

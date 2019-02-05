@@ -10,16 +10,23 @@
 8. [[PDF](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)] [Blog 1](https://towardsdatascience.com/siamese-network-triplet-loss-b4ca82c1aec8) Siamese Neural Networks for One-shot Image Recognition
 9. [[PDF](https://arxiv.org/abs/1608.04117)] The Importance of Skip Connections in Biomedical Image Segmentation
 10. [[PDF](https://openreview.net/forum?id=r1D4bs1Wz)] Dense Transformer Networks
+11. [[PDF](https://cv.snu.ac.kr/research/VDSR/VDSR_CVPR2016.pdf)]Accurate Image Super-Resolution Using Very Deep Convolutional Networks
+12. [[PDF](https://arxiv.org/pdf/1805.08318.pdf)] [[Blog 1](https://towardsdatascience.com/not-just-another-gan-paper-sagan-96e649f01a6b?fbclid=IwAR11-ziefxUngZEBjFPI2Wd_T5yAQlqDDhUqzfAlHpd2i8i2h21SThiC-hc)]Self-Attention Generative Adversarial Networks
 
-# Model Based RL Papers
+# Model Based RL Papers/Blogs
 1. [[PDF](https://arxiv.org/pdf/1507.08750.pdf)] Action-Conditional Video Prediction using Deep Networks in Atari Games
 2. [[PDF](https://arxiv.org/pdf/1704.02254.pdf)] Recurrent Environment Simulator
-3. [[PDF](https://arxiv.org/pdf/1612.08810.pdf)]] The Predictron: End-To-End Learning and Planning
+3. [[PDF](https://arxiv.org/pdf/1612.08810.pdf)] The Predictron: End-To-End Learning and Planning
 4. [[PDF](https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf)] Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning
 5. [[PDF](https://www.ijcai.org/Proceedings/15/Papers/230.pdf)] Classical Planning with Simulators: Results on the Atari Video Games
 6. [[PDF](https://arxiv.org/pdf/1901.01492.pdf)] What Should I Do Now? Marrying Reinforcement Learning and Symbolic Planning
 7. [[PDF](https://www.mimuw.edu.pl/~henrykm/pubs_2018/model-based-reinforcement.pdf)] Model-Based Reinforcement Learning for Atari
 8. [[PDF](http://tedxiao.me/pdf/gans_drl.pdf)] Generative Adversarial Networks for Model BasedReinforcement Learning with Tree Search
+9. [[PDF](https://arxiv.org/pdf/1801.03354.pdf)] Planning with Pixels in (Almost) Real Time
+10. [[PDF](https://arxiv.org/pdf/1802.04325.pdf)] Efficient Model–Based Deep Reinforcement Learning withVariational State Tabulation
+11. [[PDF](https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf)] Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning
+12. [[PDF](https://arxiv.org/pdf/1806.02308.pdf)] Model-free, Model-based, and General Intelligence
+13. [[Blog](https://jonathanfiat.github.io/ApproxiPong/)] ApproxiPong: Alpha Go Zero on Pong
 
 # Blogs/Articles
 1. [Deep Learning: Perturbations and Diversity is All You Need](https://medium.com/intuitionmachine/deep-learning-perturbations-is-all-you-need-d630b6980587?fbclid=IwAR168X_cmBnZ81UOTem5ngRgirnGegKVPEt7RRN1Sdcdn8ohVr2uIIqomDg)
@@ -31,6 +38,7 @@
 6. [Understanding and Implementing Architectures of ResNet and ResNeXt for state-of-the-art Image Classification: From Microsoft to Facebook](https://medium.com/@14prakash/understanding-and-implementing-architectures-of-resnet-and-resnext-for-state-of-the-art-image-cf51669e1624)
 7. [Ganbreeder] https://ganbreeder.app/
 8. [Analogues of mental simulation and imagination in deep learning](https://www.sciencedirect.com/science/article/pii/S2352154618301670?fbclid=IwAR2Aojn5sC9NqeiiBfn1K6L61UVLqF8dYQBoHCz5GJeHxXl3ACk9ShWa91Q)
+9. [MCTS](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
 
 # Code
 1. [OpenAI Atari Baselines](https://github.com/openai/baselines)

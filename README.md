@@ -6,14 +6,14 @@
 * [[PDF](https://papers.nips.cc/paper/7192-value-prediction-network.pdf)] Value Prediction Network
 * [[PDF](https://www.ijcai.org/Proceedings/15/Papers/230.pdf)] Classical Planning with Simulators: Results on the Atari Video Games
 * [[PDF](https://arxiv.org/pdf/1901.01492.pdf)] What Should I Do Now? Marrying Reinforcement Learning and Symbolic Planning
-* [[PDF](https://www.mimuw.edu.pl/~henrykm/pubs_2018/model-based-reinforcement.pdf)] [[Webpage](https://sites.google.com/view/modelbasedrlatari/home)] [[Code](https://github.com/facebookresearch/slbo/blob/master/README.md)] Model-Based Reinforcement Learning for Atari
+* [[PDF](https://www.mimuw.edu.pl/~henrykm/pubs_2018/model-based-reinforcement.pdf)] [[Webpage](https://sites.google.com/view/modelbasedrlatari/home)] Model-Based Reinforcement Learning for Atari
 * [[PDF](http://tedxiao.me/pdf/gans_drl.pdf)] Generative Adversarial Networks for Model BasedReinforcement Learning with Tree Search
 * [[PDF](https://arxiv.org/pdf/1801.03354.pdf)] Planning with Pixels in (Almost) Real Time
 * [[PDF](https://arxiv.org/pdf/1802.04325.pdf)] Efficient Model–Based Deep Reinforcement Learning withVariational State Tabulation
 * [[PDF](https://web.eecs.umich.edu/~baveja/Papers/UCTtoCNNsAtariGames-FinalVersion.pdf)] Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning
 * [[PDF](https://arxiv.org/pdf/1806.02308.pdf)] Model-free, Model-based, and General Intelligence
 * [[Blog](https://jonathanfiat.github.io/ApproxiPong/)] ApproxiPong: Alpha Go Zero on Pong
-* [[PDF](https://arxiv.org/pdf/1807.03858.pdf)] Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees
+* [[PDF](https://arxiv.org/pdf/1807.03858.pdf)] [[Code](https://github.com/facebookresearch/slbo/blob/master/README.md)] Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees
 
 # Other Related/Interesting Papers
 * [[PDF](https://arxiv.org/pdf/1710.10196.pdf)] [[Blog](https://towardsdatascience.com/progan-how-nvidia-generated-images-of-unprecedented-quality-51c98ec2cbd2?fbclid=IwAR3Fa-jvvre2VNxDR-uIe_tGISXh1OGQ_UIrYcrXVgi1uLjdQ-180cVLpX4)] [[Official Code](https://github.com/tkarras/progressive_growing_of_gans)] [[Talk](https://www.youtube.com/watch?v=ReZiqCybQPA)] Progressive Growing of GANs for Improved Quality, Stability, and Variation, ICLR 2018

@@ -6,7 +6,7 @@
 * [[PDF](https://papers.nips.cc/paper/7192-value-prediction-network.pdf)] Value Prediction Network
 * [[PDF](https://www.ijcai.org/Proceedings/15/Papers/230.pdf)] Classical Planning with Simulators: Results on the Atari Video Games
 * [[PDF](https://arxiv.org/pdf/1901.01492.pdf)] What Should I Do Now? Marrying Reinforcement Learning and Symbolic Planning
-* [[PDF](https://www.mimuw.edu.pl/~henrykm/pubs_2018/model-based-reinforcement.pdf) [[Webpage](https://sites.google.com/view/modelbasedrlatari/home)]] Model-Based Reinforcement Learning for Atari
+* [[PDF](https://www.mimuw.edu.pl/~henrykm/pubs_2018/model-based-reinforcement.pdf)] [[Webpage](https://sites.google.com/view/modelbasedrlatari/home)] [[Code](https://github.com/facebookresearch/slbo/blob/master/README.md)] Model-Based Reinforcement Learning for Atari
 * [[PDF](http://tedxiao.me/pdf/gans_drl.pdf)] Generative Adversarial Networks for Model BasedReinforcement Learning with Tree Search
 * [[PDF](https://arxiv.org/pdf/1801.03354.pdf)] Planning with Pixels in (Almost) Real Time
 * [[PDF](https://arxiv.org/pdf/1802.04325.pdf)] Efficient Model–Based Deep Reinforcement Learning withVariational State Tabulation
